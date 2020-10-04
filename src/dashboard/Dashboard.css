@@ -1,0 +1,13 @@
+.dashboard{
+    padding: 40px; 
+    margin: 0px auto;
+    width: 1200px;
+}
+.dashboard__header{
+    text-align: center;
+    margin-bottom: 60px;
+}
+.dashboard__content{
+    display: flex;
+    justify-content: center;
+}

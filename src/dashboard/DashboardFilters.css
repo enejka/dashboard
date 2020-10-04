@@ -1,0 +1,11 @@
+.dashboardFilters__form{
+    width: 50%;
+    text-align: left;
+
+}
+.dashboardFilters__header{
+    padding-bottom: 20px;
+}
+.dashboardFilters__select{
+    padding-bottom: 10px;
+} 
